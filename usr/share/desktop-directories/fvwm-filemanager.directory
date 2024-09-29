@@ -2,9 +2,11 @@
 Version=1.0
 Type=Directory
 Icon=system-file-manager
-Name=File MAnager
+Name=File Manager
 Name[en_GB]=File Manager
 Name[fr]=Gestionnaire de fichiers
+Name[ru]=Файловый диспетчер
 Comment=A file manager
 Comment[en_GB]=A file manager
 Comment[fr]=Un gestionnaire de fichiers
+Comment[ru]=Файловые диспетчеры
